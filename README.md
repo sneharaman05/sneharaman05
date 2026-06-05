@@ -24,6 +24,9 @@ I am passionate about data analytics and business intelligence. I enjoy working 
 - Analyzed 38K+ sales records
 - Identified top-performing markets and KPIs
 
+🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=sneharaman05&theme=radical&margin-w=10&no-frame=true)
+
  📫 Connect With Me
 - LinkedIn:(https://www.linkedin.com/in/sneha-raman-b1509b1a7/)
 - Email:sneharaman8016@gmail.com
