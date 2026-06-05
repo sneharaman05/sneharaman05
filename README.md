@@ -29,7 +29,6 @@ I am passionate about data analytics and business intelligence. I enjoy working 
  📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sneharaman05&show_icons=true&theme=radical)
-
  📫 Connect With Me
 - LinkedIn:(https://www.linkedin.com/in/sneha-raman-b1509b1a7/)
 - Email:sneharaman8016@gmail.com
