@@ -12,7 +12,6 @@ I am passionate about data analytics and business intelligence. I enjoy working 
 - 🗄️ SQL (Joins, Queries, Data Extraction)
 - 📈 Excel (Data Cleaning, Reporting)
 
-
  📂 Projects
 
  📊 Customer Churn Analysis Dashboard
@@ -24,11 +23,6 @@ I am passionate about data analytics and business intelligence. I enjoy working 
 - Power BI Dashboard
 - Analyzed 38K+ sales records
 - Identified top-performing markets and KPIs
-
-
- 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sneharaman05)
 
  📫 Connect With Me
 - LinkedIn:(https://www.linkedin.com/in/sneha-raman-b1509b1a7/)
