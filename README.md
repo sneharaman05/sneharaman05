@@ -3,6 +3,7 @@
 
 🌐 Live Portfolio:
 👉 https://sneha-portfolio-sand.vercel.app/
+
 💡 About Me
 
 Passionate about turning raw data into meaningful insights. I enjoy working with data, building dashboards, and helping businesses make better decisions using analytics.
